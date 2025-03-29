@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: darkgray;
+}
+
+.topnav a {
+    float: left;
+    color: crimson;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: beige;
+    color: blueviolet;
+}
+
+
+.a {
+    text-decoration: underline;
+    color: blue;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.b {
+    color: black;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.c {
+    color: red;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.myfooter {
+    background-color: aquamarine;
+}
